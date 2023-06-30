@@ -3,6 +3,9 @@ I have worked on this project in which there is a company that has given me its 
 This project involved data cleaning and manipulation, and Exploratory data analysis (EDA) using pandas, matplotlib, and seaborn libraries.
 Through this project, I was able to identify potential customers across different states, occupations, gender, and age groups, which led to an improvement in customer experience. Additionally, I identified the most selling product categories and products, which helped to plan inventory and meet the demands, ultimately leading to an increase in sales.
 
+## Dataset used
+-<a href="https://github.com/neha071999/Python_Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"</a>
+
 ## Project Description
 <ul>
 <li>Performed Data Cleaning and Data Manipulation.
@@ -10,6 +13,9 @@ Through this project, I was able to identify potential customers across differen
 <li>Improved Customer experience by identifying potential customers across different states, occupations, gender, and age groups.
 <li>Improved sales by identifying the most selling product categories and products, which can help to plan inventory and hence meet the demands.
 </ul>
+
+## Python full code
+-<a href="https://github.com/neha071999/Python_Diwali_Sales_Analysis/blob/main/Python_Diwali_Sales_Analysis.ipynb"</a>
 
 ## Conclusion :-
 <ul>
